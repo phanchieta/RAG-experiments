@@ -1,5 +1,5 @@
 # SciBot
 
-'conda env create -f environment.yml'
+`conda env create -f environment.yml`
 
-'streamlit run web_test.py'
+`streamlit run web_test.py`

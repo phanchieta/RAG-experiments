@@ -1,5 +1,6 @@
 # SciBot
 
+# Create
 1) Clone repo
 2) Install Ollama
 3) `ollama pull llama3.2`
@@ -20,3 +21,8 @@
     
     
 8) `streamlit run web_test.py`
+
+# Run (local - Rodrigo)
+1) `conda activate scibot`
+2) `cd repositories/SciBot`
+3) `streamlit run web_test.py`

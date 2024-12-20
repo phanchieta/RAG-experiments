@@ -6,7 +6,7 @@
 4) `ollama pull nomic-embed-text`
 5) `ollama serve`
 6) `conda env create -f environment.yml`
-7) If needed, change:
+7) If needed, change in file ~\anaconda3\envs\scibot\Lib\site-packages\paperqa\utils.py:
    
 `def strip_citations(text):`
 

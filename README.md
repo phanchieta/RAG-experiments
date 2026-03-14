@@ -1,4 +1,22 @@
 # SciBot
+LLM Research Assistant for Academic Papers
+
+This project implements a Retrieval Augmented Generation (RAG) system
+for exploring academic papers in psychology.
+
+The system indexes research papers using embeddings and allows users
+to ask questions about the literature using an LLM.
+
+Motivation:
+Researchers often spend a large amount of time searching through papers
+to understand existing work. This tool was built to accelerate early-stage
+literature exploration.
+
+Main components:
+- Paper ingestion and chunking
+- Embedding generation
+- Vector search retrieval
+- LLM-based answer generation
 
 # Create
 1) Clone repo

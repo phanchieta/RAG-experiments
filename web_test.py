@@ -12,7 +12,7 @@ papers_directory = "papers"
 os.makedirs(papers_directory, exist_ok=True)
 
 #constants to be used throughout the code
-MODEL = "ollama/llama3.2"
+MODEL = "ollama/llama3.2" 
 EMBEDDING = "ollama/nomic-embed-text"
 OLLAMA_SERVER = "http://localhost:11434"
 

@@ -1,1 +1,11 @@
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# user data (papers and index are built locally at runtime)
+papers/
+.scibot_cache/
+
 .DS_Store*

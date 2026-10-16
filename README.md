@@ -123,6 +123,13 @@ cross-encoder reranking behind a toggle, an evaluation harness (retrieval
 hit-rate over a small Q/A set), citation highlight-jumping in the PDF view,
 exporting chat threads with sources, or a `uv`-based one-liner install.
 
+## A note on AI assistance
+
+This project was built with AI assistance (Claude Code). The code is tested
+and was reviewed, but AI-generated work can contain mistakes — please read
+critically, verify anything you rely on, and open an issue if something
+looks off.
+
 ## License
 
 MIT.
